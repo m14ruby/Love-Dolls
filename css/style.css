@@ -42,7 +42,7 @@ body {
 .content {
     height: 100%;
     width: 500px;
-    max-width: 565px;
+    max-width: 300px;
 }
 
 .subtitle {
